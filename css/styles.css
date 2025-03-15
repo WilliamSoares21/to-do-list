@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: url("../img/fuji-mountain-japan.jpg");
+  background-image: url("../img/fuji-mountain-japan.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -68,3 +68,12 @@ select {
   padding: 0 1rem 1 1rem;
   border-bottom: 1px solid #ccc;
 }
+
+/*To do Form*/
+
+#todo-form,
+#edit-form {
+  margin-top: 0.5 rem;
+  font-weight: bold;
+}
+
